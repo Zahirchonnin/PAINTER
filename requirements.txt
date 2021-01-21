@@ -1,0 +1,6 @@
+work only on python 3.7 and less
+need:
+	*pillow: pip install pillow
+	*pyautogui: pip install pyautogui
+	*keyboard: pip install keyboard
+	*requests: pip install requests
